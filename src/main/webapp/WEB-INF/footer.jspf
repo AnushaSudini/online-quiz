@@ -1,0 +1,12 @@
+
+<br>
+
+<hr>
+
+<p>
+	<a href="<%=request.getServletContext().getContextPath() %>/home.do">Home</a>
+</p>
+<p>
+	<a href="<%=request.getServletContext().getContextPath() %>/logout.do">Logout</a>
+</p>
+

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/comp7012-2014spring/!svn/ver/1912/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade
+END
+viewProposeInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/comp7012-2014spring/!svn/ver/1833/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/viewProposeInfo.jsp
+END
+showTradeByUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/comp7012-2014spring/!svn/ver/1874/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/showTradeByUser.jsp
+END
+ProposeTradeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/comp7012-2014spring/!svn/ver/1830/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/ProposeTradeForm.jsp
+END
+proposeDeclineSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/comp7012-2014spring/!svn/ver/1837/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/proposeDeclineSuccess.jsp
+END
+declineTradeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/comp7012-2014spring/!svn/ver/1820/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/declineTradeForm.jsp
+END
+userTradeEmpty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/comp7012-2014spring/!svn/ver/1874/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/userTradeEmpty.jsp
+END
+proposeIndex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/comp7012-2014spring/!svn/ver/1786/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/proposeIndex.jsp
+END
+viewProposeEmpty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/comp7012-2014spring/!svn/ver/1820/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/viewProposeEmpty.jsp
+END
+noQuizemons.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/comp7012-2014spring/!svn/ver/1872/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/noQuizemons.jsp
+END
+offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/comp7012-2014spring/!svn/ver/1829/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/offers.jsp
+END
+viewTradeGet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/comp7012-2014spring/!svn/ver/1874/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/viewTradeGet.jsp
+END
+viewPropose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/comp7012-2014spring/!svn/ver/1874/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/viewPropose.jsp
+END
+userProposeEmpty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/comp7012-2014spring/!svn/ver/1874/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/userProposeEmpty.jsp
+END
+showTrade&Propose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/comp7012-2014spring/!svn/ver/1820/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/showTrade&Propose.jsp
+END
+acceptTradeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/comp7012-2014spring/!svn/ver/1874/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/acceptTradeForm.jsp
+END
+quizemonOffer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/comp7012-2014spring/!svn/ver/1831/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/quizemonOffer.jsp
+END
+tradingPost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/comp7012-2014spring/!svn/ver/1793/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/tradingPost.jsp
+END
+quizemonPropose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/comp7012-2014spring/!svn/ver/1832/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/quizemonPropose.jsp
+END
+viewTradeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/comp7012-2014spring/!svn/ver/1834/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/viewTradeForm.jsp
+END
+showProposeByUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/comp7012-2014spring/!svn/ver/1875/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/showProposeByUser.jsp
+END
+view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/comp7012-2014spring/!svn/ver/1912/teams/troika/quizemon/trunk/src/main/webapp/WEB-INF/trade/view.jsp
+END
